@@ -1,6 +1,6 @@
 # 📊 Superstore Sales Data Analysis – Week 2
 ## 📌 Project Overview
-This project is part of my **Week 2 Data Analysis learning journey**, where I continued working with the **Superstore Sales Dataset**.
+This project is part of my **Week 2 Task**, where I continued working with the **Superstore Sales Dataset**.
 In Week 1, I focused on **data loading, cleaning, basic exploration, and statistical analysis**. In Week 2, I extended the project by adding **data visualization and exploratory analysis** to understand sales, profit, discounts, delivery time, and relationships between numerical variables.
 
 The main objective of this project is to transform raw sales data into meaningful insights using **Python, Pandas, Matplotlib, and Seaborn**.
