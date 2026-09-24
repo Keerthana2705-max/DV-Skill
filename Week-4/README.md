@@ -1,4 +1,4 @@
-# 📈 Shopify Stock Visualization, Time-Series Analysis & Financial Insights
+# Week-4📈 Shopify Stock Visualization, Time-Series Analysis & Financial Insights
 
 ## 📌 Project Overview
 
