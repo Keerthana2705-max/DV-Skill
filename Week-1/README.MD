@@ -1,4 +1,4 @@
-# Superstore Sales Data Understanding, Cleaning & Exploratory Analysis(Task-1)– Sample Superstore Sales Analysis
+# Superstore Sales Data Understanding, Cleaning & Exploratory Analysis(Week-1)– Sample Superstore Sales Analysis
 
 ## 📌 Project Overview
 This project performs exploratory data analysis (EDA) on the **Sample Superstore** dataset using Python. The objective is to analyze sales data, clean the dataset, create new features, and visualize important business insights.
