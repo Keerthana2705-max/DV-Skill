@@ -1,4 +1,4 @@
-# 📈 Shopify Stock Data Understanding, Cleaning & Exploratory Analysis
+# Week-3📈 Shopify Stock Data Understanding, Cleaning & Exploratory Analysis
 
 ## 📌 Project Overview
 
