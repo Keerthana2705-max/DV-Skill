@@ -270,6 +270,8 @@ H → High
 L → Low
 C → Close
 ```
+<img width="1315" height="722" alt="image" src="https://github.com/user-attachments/assets/66161bdc-bb1e-40b3-8fda-341d3767e223" />
+
 
 The project visualizes all four price attributes using line plots.
 
@@ -289,6 +291,7 @@ plt.xticks(rotation=45)
 
 plt.show()
 ```
+<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/7005e42a-c2ff-4f0f-9c8e-5147d0b533af" />
 
 ### Purpose
 
@@ -510,6 +513,7 @@ plt.ylabel("Frequency")
 
 plt.show()
 ```
+<img width="604" height="547" alt="image" src="https://github.com/user-attachments/assets/27be48f5-66ba-42ea-b853-47b29fb74c5c" />
 
 ### What the Histogram Shows
 
@@ -541,6 +545,7 @@ plt.ylabel("Density")
 
 plt.show()
 ```
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/84a5fcdd-def0-41e6-ae29-7956ec4bb82a" />
 
 ### Purpose
 
@@ -590,6 +595,7 @@ df["Rolling_Volatility_20"] = (
     .std()
 )
 ```
+<img width="1010" height="568" alt="image" src="https://github.com/user-attachments/assets/b24196f2-a63a-48ae-8b5f-b42a93433f1d" />
 
 ### Explanation
 
