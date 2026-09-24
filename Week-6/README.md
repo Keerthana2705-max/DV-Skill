@@ -169,7 +169,6 @@ billing = df.groupby(
 
 billing
 ```
-
 A stacked bar chart is then generated:
 
 ```python
@@ -185,6 +184,7 @@ plt.ylabel("Total Billing Amount")
 plt.xticks(rotation=45)
 plt.show()
 ```
+<img width="846" height="609" alt="image" src="https://github.com/user-attachments/assets/285a77e1-8ba3-47fb-8e23-496ef9c264cc" />
 
 ### 📊 Purpose
 
@@ -220,6 +220,7 @@ plt.ylabel("Billing Amount")
 plt.xticks(rotation=45)
 plt.show()
 ```
+<img width="868" height="609" alt="image" src="https://github.com/user-attachments/assets/d64c7951-19dd-4066-af58-e02692b4ec8b" />
 
 ### 📊 What the Violin Plot Shows
 
@@ -270,6 +271,7 @@ plt.xticks(rotation=45)
 plt.grid()
 plt.show()
 ```
+<img width="1014" height="555" alt="image" src="https://github.com/user-attachments/assets/cf6f15b6-d562-494e-a439-cc8618e194d5" />
 
 ### 📈 Purpose
 
@@ -318,6 +320,7 @@ sns.heatmap(
 plt.title("Correlation Matrix")
 plt.show()
 ```
+<img width="515" height="435" alt="image" src="https://github.com/user-attachments/assets/e7c6b616-d7b8-4b4b-923e-37fe86e03dc2" />
 
 ### 🔗 Variables Analyzed
 
